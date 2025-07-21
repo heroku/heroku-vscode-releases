@@ -1,5 +1,7 @@
 # Heroku VSCode Extension
 
+[!NOTE] This repository is archived. Refer to [heroku-vscode](https://github.com/heroku/heroku-vscode) for updates to the Heroku VSCode extension.
+
 ## Introducing the Heroku Extension for Visual Studio Code: Simplifying Cloud Development
 We’re thrilled to introduce the **Heroku Extension for Visual Studio Code**, designed to streamline your workflow and bring Heroku’s power directly into your development environment. Developing on Heroku has always been about simplicity and efficiency.
 
